@@ -1,6 +1,6 @@
 # Web Design using HTML, CSS & JS, Bootstrap 4 and others!
 
-**Hi! My is Kshan and I'm the designer of these web pages**. So as you can see, these web pages are created for a hotel reservation web application called "Hotel Eva Lanka" situated in Sri Lanka. The speciality of this redesigned web design is, this new web design is built according to the **User experience** with increasing customer satisfaction. We have used **HTML, CSS, JS, Bootstrap and other css libraries** to **improve** this web design. We built this web design for a university project. The main area focused on here is to increase the user experience and customer satisfaction.
+**Hi! My is dhanud and I'm the designer of these web pages**. So as you can see, these web pages are created for a hotel reservation web application called "Hotel Eva Lanka" situated in Sri Lanka. The speciality of this redesigned web design is, this new web design is built according to the **User experience** with increasing customer satisfaction. We have used **HTML, CSS, JS, Bootstrap and other css libraries** to **improve** this web design. We built this web design for a university project. The main area focused on here is to increase the user experience and customer satisfaction.
 
 # Files contain
 
